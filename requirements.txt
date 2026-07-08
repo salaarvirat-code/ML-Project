@@ -1,14 +1,14 @@
-fastapi
-joblib
-pandas
-pydantic
-scikit-learn
-uvicorn
+#fastapi
+#joblib
+#pandas
+#pydantic
+#scikit-learn
+#uvicorn
 
-#fastapi==0.115.12
-#joblib==1.4.2
-#numpy==2.2.4
-#pandas==2.2.3
-#pydantic>=2.11
-#scikit-learn==1.6.1
-#uvicorn==0.34.0
+fastapi==0.115.12
+joblib==1.4.2
+numpy==2.2.4
+pandas==2.2.3
+pydantic>=2.11
+scikit-learn==1.6.1
+uvicorn==0.34.0
